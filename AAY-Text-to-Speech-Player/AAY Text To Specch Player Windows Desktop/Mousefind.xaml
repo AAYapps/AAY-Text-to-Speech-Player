@@ -1,0 +1,6 @@
+﻿<Window x:Name="Findmouse" x:Class="AAY_Text_To_Specch_Player_Windows_Desktop.Mousefind"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Mousefind" Height="228" Width="298" ScrollViewer.VerticalScrollBarVisibility="Disabled" WindowStyle="None" Visibility="Visible" Background="{x:Null}" Foreground="{x:Null}" MinWidth="298" MinHeight="228" MaxWidth="298" MaxHeight="228" Topmost="True" AllowsTransparency="True">
+    <Image Margin="0,-8" Source="Resources/Findmouse.png"/>
+</Window>

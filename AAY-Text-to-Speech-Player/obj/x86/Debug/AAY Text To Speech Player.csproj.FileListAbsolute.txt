@@ -1,0 +1,2 @@
+K:\AAY Text To Specch Player Windows Desktop\bin\Debug\WindowsApplication.exe.config
+K:\AAY Text To Specch Player Windows Desktop\obj\x86\Debug\AAY Text To Speech Player.csprojResolveAssemblyReference.cache

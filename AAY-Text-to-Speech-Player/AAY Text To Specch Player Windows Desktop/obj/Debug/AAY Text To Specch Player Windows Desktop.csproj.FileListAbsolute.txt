@@ -1,0 +1,47 @@
+F:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\bin\Debug\AAY Text To Specch Player Windows Desktop.exe.config
+F:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\bin\Debug\AAY Text To Specch Player Windows Desktop.exe
+F:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\bin\Debug\AAY Text To Specch Player Windows Desktop.pdb
+F:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\AAY Text To Specch Player Windows Desktop.csprojResolveAssemblyReference.cache
+F:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\MainWindow.baml
+F:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\MainWindow.g.cs
+F:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\App.g.cs
+F:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\AAY Text To Specch Player Windows Desktop_MarkupCompile.cache
+F:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\AAY Text To Specch Player Windows Desktop.g.resources
+F:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\AAY_Text_To_Specch_Player_Windows_Desktop.Properties.Resources.resources
+F:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\AAY Text To Specch Player Windows Desktop.csproj.GenerateResource.Cache
+F:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\AAY Text To Specch Player Windows Desktop.exe
+F:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\AAY Text To Specch Player Windows Desktop.pdb
+D:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\bin\Debug\AAY Text To Specch Player Windows Desktop.exe.config
+D:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\AAY Text To Specch Player Windows Desktop.exe
+D:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\AAY Text To Specch Player Windows Desktop.pdb
+D:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\bin\Debug\AAY Text To Specch Player Windows Desktop.exe
+D:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\bin\Debug\AAY Text To Specch Player Windows Desktop.pdb
+D:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\AAY Text To Specch Player Windows Desktop.csprojResolveAssemblyReference.cache
+D:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\App.g.cs
+D:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\AAY Text To Specch Player Windows Desktop_MarkupCompile.cache
+D:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\AAY Text To Specch Player Windows Desktop.g.resources
+D:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\AAY_Text_To_Specch_Player_Windows_Desktop.Properties.Resources.resources
+D:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\AAY Text To Specch Player Windows Desktop.csproj.GenerateResource.Cache
+D:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\MainWindow.baml
+D:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\MainWindow.g.cs
+K:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\bin\Debug\AAY Text To Specch Player Windows Desktop.exe.config
+K:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\AAY Text To Specch Player Windows Desktop.exe
+K:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\AAY Text To Specch Player Windows Desktop.pdb
+K:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\bin\Debug\AAY Text To Specch Player Windows Desktop.exe
+K:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\bin\Debug\AAY Text To Specch Player Windows Desktop.pdb
+K:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\AAY Text To Specch Player Windows Desktop.csprojResolveAssemblyReference.cache
+K:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\MainWindow.baml
+K:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\MainWindow.g.cs
+K:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\App.g.cs
+K:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\AAY Text To Specch Player Windows Desktop_MarkupCompile.cache
+K:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\AAY Text To Specch Player Windows Desktop.g.resources
+K:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\AAY_Text_To_Specch_Player_Windows_Desktop.Properties.Resources.resources
+K:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\AAY Text To Specch Player Windows Desktop.csproj.GenerateResource.Cache
+K:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\bin\Debug\NAudio.dll
+K:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\bin\Debug\NAudio.Lame.dll
+K:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\bin\Debug\libmp3lame.32.dll
+K:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\bin\Debug\libmp3lame.64.dll
+K:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\bin\Debug\NAudio.xml
+K:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\AAY Text To Specch Player Windows Desktop_Content.g.cs
+K:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\Mousefind.baml
+K:\AAY Text To Specch Player Windows Desktop\AAY Text To Specch Player Windows Desktop\obj\Debug\Mousefind.g.cs
